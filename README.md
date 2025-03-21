@@ -11,6 +11,7 @@ This project focuses on analyzing and predicting crime trends in India using Pyt
 
 ## Dataset
 - **Time Period**: 2020 - 2024
+- 📂 **File:** [crime_data.csv]("C")  
 - **Features**:
   - Crime Type
   - Location
@@ -18,6 +19,8 @@ This project focuses on analyzing and predicting crime trends in India using Pyt
   - Crime Description
   - Case Closed Status
   - Other relevant crime attributes
+  - 
+🔗 **Download:** Click [here](crime_dataset_india.csv) to access the dataset.
 
 ## Technologies Used
 - **Programming Language**: Python
