@@ -38,7 +38,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ### Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crime-data-prediction.git
+   [git clone https://github.com/yourusername/crime-data-prediction.git](https://github.com/Adeeb0330/Crime-Data-Modeling-and-Predcition.git)
    cd crime-data-prediction
    ```
 2. Run the data preprocessing script:
