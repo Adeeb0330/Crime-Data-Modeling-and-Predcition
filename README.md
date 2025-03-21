@@ -26,8 +26,7 @@ This project focuses on analyzing and predicting crime trends in India using Pyt
 
 ## Results
 - Achieved a **93% accuracy (R² score = 0.93)** in predicting future crime rates.
-- Identified high-risk locations and time periods for specific crime types.
-- Provided law enforcement agencies with actionable crime trend forecasts.
+- Identified high-risk locations and specific crime types.
 
 ## Installation & Usage
 ### Prerequisites
