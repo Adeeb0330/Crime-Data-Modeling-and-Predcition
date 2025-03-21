@@ -11,7 +11,6 @@ This project focuses on analyzing and predicting crime trends in India using Pyt
 
 ## Dataset
 - **Time Period**: 2020 - 2024
-- 📂 **File:** [crime_data.csv]("crime_dataset_india.csv")  
 - **Features**:
   - Crime Type
   - Location
@@ -19,7 +18,7 @@ This project focuses on analyzing and predicting crime trends in India using Pyt
   - Crime Description
   - Case Closed Status
   - Other relevant crime attributes
-  - 
+  - 📂 **File:** [crime_data.csv]("crime_dataset_india.csv")  
 🔗 **Download:** Click [here](crime_dataset_india.csv) to access the dataset.
 
 ## Technologies Used
@@ -59,9 +58,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Visualizations
 Below are some insights from the data analysis:
-- Crime rate distribution across different states.
-- Monthly crime trends for major cities.
-- Crime type-wise frequency analysis.
+- What are the most common crime types?
+- How do crime trends change over the years?
+- What is the distribution of crimes across different crime types?
+- Which crime types have the highest number of reported cases?
+- How does the number of crimes vary across different years?
 
 ## Future Enhancements
 - Integrate a web-based dashboard for real-time crime monitoring.
@@ -69,7 +70,7 @@ Below are some insights from the data analysis:
 - Automate data collection from government crime records.
 
 ## Contributors
-- **Adeeb** - [GitHub Profile](https://github.com/yourusername)
+- **Adeeb** - [GitHub Profile](https://github.com/Adeeb0330)
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
