@@ -37,25 +37,6 @@ Ensure you have Python installed along with the required libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-### Running the Project
-1. Clone the repository:
-   ```bash
-   [git clone https://github.com/yourusername/crime-data-prediction.git](https://github.com/Adeeb0330/Crime-Data-Modeling-and-Predcition.git)
-   cd crime-data-prediction
-   ```
-2. Run the data preprocessing script:
-   ```bash
-   python preprocess_data.py
-   ```
-3. Train the model:
-   ```bash
-   python train_model.py
-   ```
-4. Predict future crime trends:
-   ```bash
-   python predict.py
-   ```
-
 ## Visualizations
 Below are some insights from the data analysis:
 - What are the most common crime types?
